@@ -1,4 +1,4 @@
-Translator
+Translator: Created by Amir Mohammad Tavallali Nia.
 A simple graphical translation application built with Python and wxPython
  
 Description
