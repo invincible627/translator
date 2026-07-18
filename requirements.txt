@@ -1,2 +1,2 @@
-wxPython
-deep-translator
+deep_translator==1.11.4
+wxpython==4.2.5
